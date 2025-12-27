@@ -1,12 +1,12 @@
 <div align="center">
 <div>
-  <a href="https://github.com/Kurt BEY">
-    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Qays%20|%20Bulletproof%20Back-End%20Engineer%20%F0%9F%9B%A1%EF%B8%8F&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&customColorList=12,14,16" />
+  <a href="https://github.com/Kurtbey1">
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Abd Elrahman%20|%20Bulletproof%20Back-End%20Engineer%20%F0%9F%9B%A1%EF%B8%8F&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&customColorList=12,14,16" />
   </a>
 </div>
 
-<a href="https://github.com/qays3">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=A855F7&lines=Hi%2C+I'm+Qays+%F0%9F%91%8B;.NET+Back-End+Developer;Security+Engineer+%7C+DevSecOps;Building+Bulletproof+Banking+Systems;Clean+Code+%7C+SOLID+%7C+JWT+Expert" alt="Typing SVG" />
+<a href="https://github.com/Kurtbey1">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=A855F7&lines=Hi%2C+I'm+Abd Elrahman+%F0%9F%91%8B;.NET+Back-End+Developer;Security+Engineer+%7C+DevSecOps;Building+Bulletproof+Banking+Systems;Clean+Code+%7C+SOLID+%7C+JWT+Expert" alt="Typing SVG" />
 </a>
 
 <div align="left">
@@ -26,7 +26,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
 </ul>
 </div>
 
-<a href="https://github.com/qays3">
+<a href="https://github.com/Kurtbey1">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
@@ -37,17 +37,17 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
 </div>
 
 <div align="center">
-  <a href="https://github.com/qays3">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qays3&radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=true&color=A855F7&line=A855F7&point=FFFFFF" height="300" alt="activity-graph graph" />
+  <a href="https://github.com/Kurtbey1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=true&color=A855F7&line=A855F7&point=FFFFFF" height="300" alt="activity-graph graph" />
   </a>
 </div>
 
-<a href="https://github.com/qays3">
+<a href="https://github.com/Kurtbey1">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
 <div>
-  <a href="https://github.com/qays3">
+  <a href="https://github.com/Kurtbey1">
     <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Tech%20Stack%20(Banking%20Edition)&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=12,14,16" />
   </a>
 </div>
@@ -58,7 +58,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
   <tr>
     <th>Main Core</th>
     <td>
-      <a href="https://github.com/qays3">
+      <a href="https://github.com/Kurtbey1">
         <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
         <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
         <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
@@ -69,7 +69,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
   <tr>
     <th>Backend & API</th>
     <td>
-      <a href="https://github.com/qays3">
+      <a href="https://github.com/Kurtbey1">
         <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
         <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
         <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
@@ -92,7 +92,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
   <tr>
     <th>Infrastructure</th>
     <td>
-      <a href="https://github.com/qays3">
+      <a href="https://github.com/Kurtbey1">
         <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
         <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
@@ -105,7 +105,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
   <tr>
     <th>Databases</th>
     <td>
-      <a href="https://github.com/qays3">
+      <a href="https://github.com/Kurtbey1">
         <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
       </a>
@@ -115,7 +115,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
 
 </div>
 
-<a href="https://github.com/qays3">
+<a href="https://github.com/Kurtbey1">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
@@ -125,21 +125,21 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
 <h2>🤝 Connect With Me</h2>
 </div>
 
-<a href="https://www.linkedin.com/in/qays-sarayra/">
+<a href="https://www.linkedin.com/in/abd-elarhman/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8B5CF6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
 </a>
-<a href="https://github.com/qays3">
+<a href="https://github.com/Kurtbey1">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=A855F7&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="github logo" />
 </a>
 
 <br>
 
-<a href="https://github.com/qays3">
-  <img src="https://komarev.com/ghpvc/?username=qays3&color=A855F7&style=for-the-badge" />
+<a href="https://github.com/Kurtbey1">
+  <img src="https://komarev.com/ghpvc/?username=Kurtbey1&color=A855F7&style=for-the-badge" />
 </a>
 
 <div>
-  <a href="https://github.com/qays3">
+  <a href="https://github.com/Kurtbey1">
     <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&color=gradient&customColorList=12,14,16" />
   </a>
 </div>
