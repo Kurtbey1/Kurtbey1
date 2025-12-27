@@ -1,104 +1,114 @@
 <div align="center">
-<div>
-  <a href="https://github.com/Kurtbey1">
-    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20GitHub%20%F0%9F%91%8B&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&customColorList=0,2,5" />
-  </a>
-</div>
 
+<!-- ================= HEADER ================= -->
 <a href="https://github.com/Kurtbey1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=EF4444&lines=Hi%2C+I'm+Abd+Elrahman+ALqudah%F0%9F%91%8B;Back-End+Developer+%7C+DevSecOps;Building+Scalable+Solutions;Mastering+SOLID+Principles;Secure+By+Design" alt="Typing SVG" />
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Welcome%20to%20my%20GitHub%20👋&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=EF4444" />
 </a>
 
-<div align="left">
-<h2>🔴 About Me :</h2>
-<p> <b>Back-End Architecture & Security Enthusiast 💻</b> </p>
+<!-- ================= TYPING ================= -->
+<a href="https://github.com/Kurtbey1">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=520&color=EF4444&lines=Hi%2C+I'm+Abd+Elrahman+Alqudah;Back-End+Developer+%7C+DevSecOps;Secure+By+Design;Clean+Architecture+%7C+SOLID" 
+    alt="Typing SVG" />
+</a>
 
-<p>
-I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security Engineering</b>. Currently mastering the art of building resilient financial infrastructures using <b>ASP.NET Core</b> and <b>Docker</b>. I don't just write code; I stress-test it until it's unshakeable.
-</p>
-<br>
-
-<ul>
-  <li>🏛️ Architecting <b>Secure Banking Systems</b> with .NET & SQL Server.</li>
-  <li>🔐 Implementing advanced <b>JWT Authentication</b> and <b>Role-Based Access Control (RBAC)</b>.</li>
-  <li>🐳 Orchestrating containerized environments using <b>Docker</b>.</li>
-  <li>🎯 Committed to <b>SOLID Principles</b> and <b>Clean Architecture</b>.</li>
-</ul>
 </div>
 
-<div align="left">
-## 📊 GitHub Stats
-</div>
+---
+
+## 🔴 About Me
+
+I am a **Back-End Developer** focused on **Security, Architecture, and Reliability**.  
+I build systems the way financial institutions expect them to be built:  
+**predictable, hardened, and boringly stable**.
+
+I don’t chase hype.  
+I chase **correctness, separation of concerns, and controlled failure**.
+
+### What I actually do:
+- 🏛️ Design **secure backend systems** using **ASP.NET Core & SQL Server**
+- 🔐 Implement **JWT Authentication**, **RBAC**, and security-first APIs
+- 🐳 Containerize services with **Docker**
+- 🎯 Apply **SOLID principles** and **Clean Architecture** intentionally (not buzzwords)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <a href="https://github.com/Kurtbey1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=true&color=EF4444&line=EF4444&point=FFFFFF" height="300" alt="activity-graph graph" />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&theme=github-dark&color=EF4444&line=EF4444&point=FFFFFF&hide_border=true" 
+      height="300" />
   </a>
 </div>
 
-<div>
-  <a href="https://github.com/Kurtbey1">
-    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Tech%20Stack%20&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=0,2,5" />
-  </a>
+---
+
+<!-- ================= TECH STACK HEADER ================= -->
+<div align="center">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=rect&height=80&section=header&text=Tech%20Stack&fontSize=26&fontColor=FFFFFF&color=EF4444" />
 </div>
+
+---
 
 <div align="center">
 
 <table>
   <tr>
-    <th>Main Core</th>
+    <th align="left">Core</th>
     <td>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp" height="40" alt="Core Skills" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp" height="40" />
     </td>
   </tr>
 
   <tr>
-    <th>Backend & API</th>
+    <th align="left">Backend</th>
     <td>
-        <img src="https://skillicons.dev/icons?i=dotnet,laravel,php" height="40" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=dotnet,laravel,php" height="40" />
     </td>
   </tr>
 
   <tr>
-    <th>Infrastructure</th>
+    <th align="left">Infrastructure</th>
     <td>
-        <img src="https://skillicons.dev/icons?i=docker,linux,git,github" height="40" alt="Infrastructure" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github" height="40" />
     </td>
   </tr>
 
   <tr>
-    <th>Databases</th>
+    <th align="left">Databases</th>
     <td>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" height="40" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" height="40" />
     </td>
   </tr>
 </table>
 
 </div>
 
-<br>
+---
 
-<div align="left">
-<h2>🤝 Connect With Me</h2>
-</div>
+## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/abd-elarhman/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=B91C1C&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
+  <img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
 </a>
 <a href="https://github.com/Kurtbey1">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=991B1B&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
+  <img src="https://img.shields.io/badge/GitHub-EF4444?style=for-the-badge&logo=github&logoColor=white" height="40" />
 </a>
 
-<br><br>
+---
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kurtbey1&color=EF4444&style=for-the-badge" />
+
+</div>
+
+<!-- ================= FOOTER ================= -->
 <a href="https://github.com/Kurtbey1">
-  <img src="https://komarev.com/ghpvc/?username=Kurtbey1&color=EF4444&style=for-the-badge" />
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=EF4444" />
 </a>
-
-<div>
-  <a href="https://github.com/Kurtbey1">
-    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&color=gradient&customColorList=0,2,5" />
-  </a>
-</div>
-
-</div>
