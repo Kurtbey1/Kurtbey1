@@ -100,8 +100,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
         <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="SQL Server" />
 
-      </a>
-    </td>
+      
   </tr>
 </table>
 
