@@ -1,7 +1,7 @@
 <div align="center">
 <div>
   <a href="https://github.com/Kurtbey1">
-    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Abd Elrahman%20|%20Bulletproof%20Back-End%20Engineer%20%F0%9F%9B%A1%EF%B8%8F&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&customColorList=12,14,16" />
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20GitHub%20%F0%9F%91%8B&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&customColorList=12,14,16" />
   </a>
 </div>
 
