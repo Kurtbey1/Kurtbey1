@@ -6,7 +6,7 @@
 </div>
 
 <a href="https://github.com/Kurtbey1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=A855F7&lines=Hi%2C+I'm+Abd Elrahman+%F0%9F%91%8B;.NET+Back-End+Developer;Security+Engineer+%7C+DevSecOps;Building+Bulletproof+Banking+Systems;Clean+Code+%7C+SOLID+%7C+JWT+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=A855F7&lines=Hi%2C+I'm+Abd+Elrahman+ALqudah%F0%9F%91%8B;Back-End+Developer+%7C+DevSecOps;Building+Scalable+Solutions;Mastering+SOLID+Principles;Secure+By+Design" alt="Typing SVG" />
 </a>
 
 <div align="left">
