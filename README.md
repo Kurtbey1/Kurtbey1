@@ -38,7 +38,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
 
 <div>
   <a href="https://github.com/Kurtbey1">
-    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Tech%20Stack%20(Banking%20Edition)&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=0,2,5" />
+    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Tech%20Stack%20&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=0,2,5" />
   </a>
 </div>
 
