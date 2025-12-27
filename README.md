@@ -38,7 +38,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
 
 <div align="center">
   <a href="https://github.com/Kurtbey1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=true&color=A855F7&line=A855F7&point=FFFFFF" height="300" alt="activity-graph graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qays3&radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=true&color=A855F7&line=A855F7&point=FFFFFF" height="300" alt="activity-graph graph" />
   </a>
 </div>
 
@@ -77,17 +77,6 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
     </td>
   </tr>
 
-  <tr>
-    <th>Security Tools</th>
-    <td>
-      <a href="https://github.com/qays3">
-        <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" />
-        <img src="https://products.containerize.com/vi/security-testing-tools/metasploit/menu_image.png" height="40" alt="Metasploit" />
-        <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" />
-        <img src="https://images.contentstack.io/v3/assets/blt28ff6c4a2cf43126/blt2d8822c72b3fa47d/647726fad2aad85beae606cd/NMAP_1_Integrations_Feature_Array_Item_Image.png?auto=webp&disable=upscale&width=3840&quality=75" height="40" alt="Nmap" />
-      </a>
-    </td>
-  </tr>
 
   <tr>
     <th>Infrastructure</th>
@@ -135,7 +124,7 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
 <br>
 
 <a href="https://github.com/Kurtbey1">
-  <img src="https://komarev.com/ghpvc/?username=Kurtbey1&color=A855F7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=qays3&color=A855F7&style=for-the-badge" />
 </a>
 
 <div>
