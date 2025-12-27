@@ -6,7 +6,7 @@
 </div>
 
 <a href="https://github.com/Kurtbey1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=A855F7&lines=Hi%2C+I'm+Abd+Elrahman+ALqudah%F0%9F%91%8B;Security+Engineer+%2B+Back-End+Developer;SOC+%7C+Cloud+Security+%7C+DevSecOps;Building+secure%2C+scalable+solutions;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=A855F7&lines=Hi%2C+I'm+Abd+Elrahman+ALqudah%F0%9F%91%8B;Computer+Sceience+%2B+Back-End+Developer;%7C+DevSecOps;Building+secure%2C+scalable+solutions;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <div align="left">
@@ -70,9 +70,10 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
     <th>Backend & API</th>
     <td>
       <a href="https://github.com/Kurtbey1">
-        <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
-        <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="ASP.NET" />
+        <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+        <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
       </a>
     </td>
   </tr>
