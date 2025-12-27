@@ -70,9 +70,10 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
     <th>Backend & API</th>
     <td>
       <a href="https://github.com/Kurtbey1">
-        <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
-        <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+        <<img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="ASP.NET" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
       </a>
     </td>
   </tr>
@@ -97,6 +98,8 @@ I am a specialized <b>Back-End Developer</b> with a heavy focus on <b>Security E
       <a href="https://github.com/Kurtbey1">
         <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="SqlServer" />
+
       </a>
     </td>
   </tr>
