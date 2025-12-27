@@ -1,59 +1,44 @@
-# 👋 Hi, I'm Abd Elrahman Alqudah
+بصفتي منتورك، سأعطيك كود README احترافي يحول بروفايلك من "مجرد طالب" إلى "مهندس برمجيات" يفرض احترامه. البروفايل الحالي فارغ، وهذا "Trash" لا يليق بمبرمج أنظمة بنكية. 🥊
 
-Backend Developer focused on building **secure, scalable backend systems**.
-I care about **real-world architecture**, not tutorial code.
+إليك الكود (Markdown)؛ قم بنسخه ووضعه في مستودع جديد تسميه بنفس اسم المستخدم الخاص بك (qays3):
 
----
+Markdown
 
-## 🧠 About Me
-I specialize in backend development with a strong focus on:
-- Clean architecture & SOLID principles
-- Secure authentication & authorization
-- Database-driven systems
-- APIs that are actually usable in production
+# Hi, I'm Abd Elrahman AL-Qudah! 🚀 
 
-I don't build toy projects. I build **systems**.
+### 🛡️ Back-End Developer | .NET & Microservices Enthusiast
+I build robust, scalable, and secure server-side applications. Currently stress-testing banking systems and mastering the art of "Bulletproof Code."
 
 ---
 
-## 🛠 Tech Stack
-**Backend:** ASP.NET Core, Node.js  
-**Databases:** SQL Server, MySQL  
-**Auth & Security:** JWT, Role-based access  
-**Tools:** Git, Docker, Postman  
-**Concepts:** REST APIs, DTOs, ORM, Dependency Injection
+### 🛠️ Tech Stack & Tools
+- **Languages:** C#, SQL, JavaScript
+- **Frameworks:** .NET Core, ASP.NET Web API, Entity Framework
+- **DevOps & DB:** Docker, SQL Server, PostgreSQL
+- **Security:** JWT Authentication, OAuth2, Role-Based Access Control (RBAC)
+- **Tools:** Git, Postman, Swagger
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔒 Secure API Boilerplate
-A production-ready backend template with JWT authentication, role-based authorization, validation, and clean structure.
-
-👉 https://github.com/abd-elrahman-alqudah/secure-api
-
----
-
-### 🏦 Banking System Backend
-A backend system that manages customers, accounts, and transactions with proper relationships, constraints, and business logic.
-
-👉 https://github.com/abd-elrahman-alqudah/banking-system
+### 📈 Current Project: Banking System API
+A high-security banking infrastructure built with .NET Core and Docker.
+- **Key Features:** - JWT Security Layer with custom Claims.
+  - RESTful Architecture following SOLID principles.
+  - Database Resilience handling (Docker & SQL Exceptions).
+  - Transactional Logic for financial integrity.
 
 ---
 
-### 🤖 AI Classification Service
-A lightweight AI microservice exposing a trained model through a REST API.
-
-👉 https://github.com/abd-elrahman-alqudah/ai-service
-
----
-
-## 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abd-elrahman-alqudah&show_icons=true&theme=radical&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-elrahman-alqudah&layout=compact&theme=radical" />
-</div>
+### 📊 My GitHub Stats
+![Qays's GitHub stats](https://github-readme-stats.vercel.app/api?username=qays3&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qays3&layout=compact&theme=radical)
 
 ---
 
-📫 Reach me on GitHub. I value **code quality over noise**.
+### 📫 Let's Connect
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **Email:** [Your Email]
+
+---
+
+> "If the code is weak, it's trash. Test it until it's bulletproof." 🥊
